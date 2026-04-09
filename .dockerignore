@@ -1,0 +1,10 @@
+.venv
+__pycache__
+first_step.ipynb
+.git
+.gitignore
+*.pyc
+*.pyo
+*.pyd
+*.log
+.pytest_cache
